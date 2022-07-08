@@ -18,3 +18,7 @@ Features/(What different files do?):-
 4th)What can it do :- It can do several mathmatical calculations, tell you the weather(temprature only), It can play any youtube video(say the exact title of video), Search anything and etc.
 
 5fth)1# - 10#:- Mathmatical Calculators
+
+
+Credit:- Shivansh Dubey
+Non-Copywrite Project.
